@@ -1,0 +1,82 @@
+.email-container {
+  width: 100vw;
+  margin: 0 auto;
+}
+.email-content {
+  width: 100%;
+  float: left;
+}
+
+.email-header {
+  text-align: center;
+  background-color: #f82100;
+  box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14),
+    0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+  padding: 30px;
+}
+
+.email-body {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.email-heading {
+  text-align: center;
+  margin-top: 50px;
+  color: #f82100;
+}
+
+.heading-bar {
+  width: 120px;
+  border-color: #908e8e;
+}
+
+.heading-desc {
+  text-align: center;
+  color: #908e8e;
+}
+
+.body-desc {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.btn-red {
+  color: #ffffff;
+  padding: 5px;
+  font-size: 1em;
+  box-shadow: 0 2px 2px 1px rgba(0, 0, 0, 0.2);
+  font-family: 'Arial';
+  font-weight: 600;
+  border-radius: 3px;
+  text-transform: capitalize;
+  background-color: #f44336;
+  border: 0px;
+  width: 300px;
+  padding: 12px;
+}
+
+.email-button {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.verify-link {
+  text-align: center;
+}
+.verify-link a {
+  color: #fbb3ac;
+}
+
+.forget-password-desc {
+  border-bottom: 2px solid #eeeeee;
+}
+
+.email-footer {
+  text-align: center;
+  color: #908e8e;
+}
+
+.email-footer a {
+  color: #f44336;
+}
